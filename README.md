@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[애니프사들은 코딩을 더 잘할까?](https://www.youtube.com/watch?v=iddwmz_2nzo&ab_channel=%EC%BD%94%EB%94%A9%EC%95%A0%ED%94%8C)
+[프로필이 애니 프사인 이유](https://www.youtube.com/watch?v=iddwmz_2nzo&ab_channel=%EC%BD%94%EB%94%A9%EC%95%A0%ED%94%8C)
 
 <!--
 **imsang27/imsang27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
