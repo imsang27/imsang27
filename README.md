@@ -17,4 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Stats](https://github-readme-stats.vercel.app/api?username=sanghyeok-dev&show_icons=true&count_private=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanghyeok-dev&layout=compact&theme=tokyonight)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imsang27)](https://github.com/anuraghazra/github-readme-stats)
