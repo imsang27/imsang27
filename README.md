@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=imsang27&show_icons=true&theme=ambient_gradient&cache_seconds=1800&v=1)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=imsang27&show_icons=true&theme=ambient_gradient)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imsang27&layout=compact&theme=dark)
