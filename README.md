@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imsang27&layout=compact&theme=dark)
 
 
-프로필 출처
-Pixiv: https://www.pixiv.net/artworks/114080509
-X: https://x.com/Muojjang_0929/status/1733411168545648737
+## 프로필 출처
+- Pixiv: https://www.pixiv.net/artworks/114080509
+- X: https://x.com/Muojjang_0929/status/1733411168545648737
