@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 [![Tokenphage](https://api.tokenphage.com/badge/imsang27?theme=claude&mode=dark)](https://github.com/TOKENPHAGE)
 [![Tokenphage](https://api.tokenphage.com/badge/imsang27?theme=grass-claude&mode=dark)](https://github.com/TOKENPHAGE)
-[![Tokenphage](https://api.tokenphage.com/badge/imsang27?theme=beta-tester&mode=purple)](https://github.com/TOKENPHAGE)
 
 
 ## 프로필 출처
