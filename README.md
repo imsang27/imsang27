@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imsang27&layout=compact&theme=dark)
 
+[![Tokenphage](https://api.tokenphage.com/badge/imsang27?theme=claude&mode=dark)](https://github.com/TOKENPHAGE)
+[![Tokenphage](https://api.tokenphage.com/badge/imsang27?theme=grass-claude&mode=dark)](https://github.com/TOKENPHAGE)
+[![Tokenphage](https://api.tokenphage.com/badge/imsang27?theme=beta-tester&mode=purple)](https://github.com/TOKENPHAGE)
+
 
 ## 프로필 출처
 - Pixiv: https://www.pixiv.net/artworks/114080509
